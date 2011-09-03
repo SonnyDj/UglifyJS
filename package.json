@@ -18,5 +18,9 @@
         "repository": {
                 "type": "git",
                 "url": "git@github.com:mishoo/UglifyJS.git"
+        },
+
+        "dependencies": {
+                "source-map": "=0.0.0"
         }
 }
